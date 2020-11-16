@@ -4,6 +4,10 @@ import org.json.JSONObject;
 import java.io.IOException;
 import java.net.Socket;
 
+/**
+ * @author Krishna Desai
+ */
+
 public class Client {
 
     public static void main(String[] args) throws IOException, JSONException {

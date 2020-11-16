@@ -1,5 +1,8 @@
 import java.util.HashMap;
 
+/**
+ * @author Krishna Desai
+ */
 public class DatabaseImpl implements database {
 
     private HashMap<Integer, String> mydb;

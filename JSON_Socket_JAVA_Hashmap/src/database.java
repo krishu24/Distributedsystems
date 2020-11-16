@@ -1,3 +1,7 @@
+
+/**
+ * @author Krishna Desai
+ */
 public interface database {
     String getRecord(int key);
 
